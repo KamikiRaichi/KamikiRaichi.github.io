@@ -83,7 +83,7 @@ header {
 }
 .boxed {
   display: block;
-  background-color: #7d5c5c;
+  background-color: #8684D3;
   position: relative;
   max-width: 1250px;
   margin-right: auto;
@@ -157,7 +157,7 @@ div#footer-wrapper {
 div#copyrights {
 	padding: 35px 0 20px 0;
 	margin-bottom: 20px;
-	background-color: #3a282b;
+	background-color: #000000;
 	color: #fff;
 }
 a {
@@ -239,7 +239,7 @@ h4.lead {
     font-weight: bold;
     text-transform: uppercase;
     margin: 20px;
-    color: #f56c57;
+    color: #000000;
     background-color: #f5f5f5;
     padding: 10px;
     text-align: center;
